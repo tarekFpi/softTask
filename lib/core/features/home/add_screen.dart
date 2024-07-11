@@ -34,7 +34,6 @@ class _NewAddScreenState extends State<NewAddScreen> {
 
             children: [
 
-
               const SizedBox(
                 width: 8,
               ),
